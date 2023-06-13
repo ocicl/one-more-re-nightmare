@@ -1,0 +1,10 @@
+* one-more-re-nightmare
+
+A fast regular expression compiler in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/telekons/one-more-re-nightmare.git   |
+| commit  | 09c33fe  |
+| systems | one-more-re-nightmare |
+|---------+-------------------------------------------|
+
