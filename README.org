@@ -4,6 +4,6 @@ A fast regular expression compiler in Common Lisp
 
 |---------+-----------------------------------------------------------|
 | source  | git:https://github.com/telekons/one-more-re-nightmare.git |
-| commit  | 2468928                                                   |
+| commit  | 2d6cf12                                                   |
 | systems | one-more-re-nightmare                                     |
 |---------+-----------------------------------------------------------|
